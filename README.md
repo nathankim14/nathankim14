@@ -9,11 +9,9 @@
 
 ## 🛠️ Tech Stacks
 
-### 💻 Languages
-<img src="https://shields.io"> <img src="https://shields.io"> <img src="https://shields.io">
-
-### ⚙️ Frameworks & Data Tools
-<img src="https://shields.io"> <img src="https://shields.io">
+* **Data Analysis**: `R` (Tidyverse, ggplot2, Hypothesis Testing, Model Selection, Linear Regression), `Python`
+* **Data Visualization**: `Tableau` (Interactive Dashboards, Calculated Fields, Storytelling)
+* **Database & Tools**: `SQL` (Subqueries, Joins, Aggregation), `Advanced Excel` (Pivot Tables, VLOOKUP, Data Cleaning)
 
 
 ## 📌 Featured Projects
