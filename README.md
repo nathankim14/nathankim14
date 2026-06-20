@@ -1,4 +1,4 @@
-## Hi there, I'm Nathan Kim👋
+## Hi, I'm Nathan Kim👋
 
 🎓 **Statistics / Data Science Undergraduate at UCLA (Bruins)** (Expected Graduation: June 2028)  
 
@@ -25,7 +25,7 @@
 
 ### 2. 🏅 Economic Impact of Hosting Olympics
 - **Description**: Refined unstructured global datasets to analyze and visualize the socio-economic effects (GDP growth & unemployment rates) on Olympic host nations.
-- **Key Finding**: Proven no statistically significant economic impact using **P-value analysis**, uncovering the "high cost, low revenue" reality of modern games.
+- **Key Finding**: Proven no statistically significant economic impact using P-value analysis, uncovering the "high cost, low revenue" reality of modern games.
 - **Tech Stack**: `Python`, `Tableau`
 - 🔗 **[Explore Repo & Interactive Dashboards](https://github.com/nathankim14/olympic-analysis)**
 
