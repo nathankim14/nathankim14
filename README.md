@@ -21,19 +21,19 @@
 - **Description**: A comprehensive statistical analysis using R Markdown to predict KBO pitchers' MLB performance and evaluate the economic efficiency of stealing bases.
 - **Impact**: Officially published as a data-driven report on the **Bruin Sports Analytics website**.
 - **Tech Stack**: `R`, `R Markdown`, `Excel`
-- 🔗 **[Explore Code & Deep Dive Repo](https://github.com/nathankim14/baseball-analysis)**
+- 🔗 **[Explore Deep Dive Repo](https://github.com/nathankim14/baseball-analysis)**
 
 ### 2. 🏅 Economic Impact of Hosting Olympics
 - **Description**: Refined unstructured global datasets to analyze and visualize the socio-economic effects (GDP growth & unemployment rates) on Olympic host nations.
 - **Key Finding**: Proven no statistically significant economic impact using **P-value analysis**, uncovering the "high cost, low revenue" reality of modern games.
 - **Tech Stack**: `Python`, `Tableau`
-- 🔗 **[Explore Notebook & Interactive Dashboards](https://github.com/nathankim14/olympic-analysis)**
+- 🔗 **[Explore Repo & Interactive Dashboards](https://github.com/nathankim14/olympic-analysis)**
 
 ### 3. 📈 Polymarket User Behavior Analysis
 - **Description**: Conducted large-scale behavioral and market spread analysis on Polymarket data to uncover hidden correlations behind prediction market competitiveness and risk-averse user behaviors.
 - **Key Finding**: Discovered user preference for lower-priced outcomes (lottery effect) and identified abandoned markets near the 0.5 price point.
 - **Tech Stack**: `Python`
-- 🔗 **[Explore Code & Behavioral Analysis Repo](https://github.com/nathankim14/polymarket-analysis)**
+- 🔗 **[Explore Repo](https://github.com/nathankim14/polymarket-analysis)**
 
 
 <!--
