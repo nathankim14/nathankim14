@@ -3,8 +3,8 @@
 🎓 **Statistics / Data Science Undergraduate at UCLA (Bruins)** (Expected Graduation: June 2028)  
 
 ## ⚡ About Me
-* 📊 **Focus**: Passionate about transforming unstructured datasets into actionable business insights and statistical stories.
-* 🔍 **Specialty**: Strong background in exploratory data analysis (EDA), hypothesis testing (P-value analysis), and interactive data visualization.
+* 📊 **Focus**: Passionate about transforming unstructured datasets into actionable business insights and statistical stories with dashboards.
+* 🔍 **Specialty**: Strong background in interactive data visualization, exploratory data analysis (EDA), hypothesis testing (P-value analysis), and sales operations.
 * 📚 **Current Learning**: Actively refining code readability
 
 ## 🛠️ Tech Stacks
