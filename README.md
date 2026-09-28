@@ -9,9 +9,9 @@
 
 ## 🛠️ Tech Stacks
 
-* **Data Analysis**: `R` (Tidyverse, ggplot2, Hypothesis Testing, Model Selection, Linear Regression), `Python`
 * **Data Visualization**: `Tableau` (Interactive Dashboards, Calculated Fields, Storytelling)
 * **Database & Tools**: `SQL` (Subqueries, Joins, Aggregation), `Advanced Excel` (Pivot Tables, VLOOKUP, Data Cleaning)
+* **Data Analysis**: `R` (ggplot2, Hypothesis Testing, Model Selection, Linear Regression, Tidyverse), `Python` (Pandas)
 
 
 ## 📌 Featured Projects
