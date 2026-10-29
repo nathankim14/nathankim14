@@ -1,4 +1,4 @@
-## Hi, I'm Nathan Kim👋
+## Hi, I'm Nathan Kim
 
 🎓 **Statistics / Data Science Undergraduate at UCLA ** (Expected Graduation: June 2028)  
 
