@@ -1,6 +1,6 @@
 ## Hi, I'm Nathan Kim👋
 
-🎓 **Statistics / Data Science Undergraduate at UCLA (Bruins)** (Expected Graduation: June 2028)  
+🎓 **Statistics / Data Science Undergraduate at UCLA ** (Expected Graduation: June 2028)  
 
 ## ⚡ About Me
 * 📊 **Focus**: Passionate about transforming unstructured datasets into actionable business insights and statistical stories with dashboards.
